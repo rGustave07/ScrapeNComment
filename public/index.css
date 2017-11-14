@@ -1,0 +1,11 @@
+body{
+  background-color: beige;
+}
+
+#content{
+  overflow: auto;
+  float: left;
+  background-color: white;
+  height: 400px;
+  width: 800px;
+}
